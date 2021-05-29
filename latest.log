@@ -1,0 +1,177 @@
+[01:54:35] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[01:54:35] [main/INFO]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[01:54:35] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[01:54:35] [main/INFO]: Forge Mod Loader version 7.99.40.1614 for Minecraft 1.7.10 loading
+[01:54:35] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 10:amd64:10.0, installed at C:\Users\sylva\Twitch\Minecraft\Install\runtime\jre-legacy\windows-x64\jre-legacy
+[01:54:36] [main/INFO]: [io.gitlab.dwarfyassassin.lotrucp.core.UCPCoreMod:<clinit>:23]: LOTR-UCP: Found core mod.
+[01:54:36] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:54:36] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[01:54:36] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:54:36] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:54:36] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:54:38] [main/INFO]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[01:54:38] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[01:54:38] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:54:38] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[01:54:38] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:54:38] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:54:39] [main/INFO]: Java Version: [8, 0, 51]
+[01:54:39] [main/INFO]: Heap memory allocation: 10944000000
+[01:54:39] [main/INFO]: 16 Java arguments present: [-Dminecraft.applet.TargetDirectory=C:\Users\sylva\Twitch\Minecraft\Instances\test, -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump, -Dminecraft.client.jar=C:\Users\sylva\Twitch\Minecraft\Install\versions\1.7.10\1.7.10.jar, -Dfml.ignoreInvalidMinecraftCertificates=true, -Dos.version=10.0, -Xms256m, -Duser.language=en, -Duser.country=US, -Dlog4j.configurationFile=C:\Users\sylva\Twitch\Minecraft\Install\assets\log_configs\client-1.7.xml, -Dminecraft.launcher.version=2.2.2529, -Dos.name=Windows 10, -Djava.library.path=C:\Users\sylva\Twitch\Minecraft\Install\bin\0a87-ce7e-b0c2-7bf7, -XX:PermSize=256m, -Dminecraft.launcher.brand=minecraft-launcher, -Dfml.ignorePatchDiscrepancies=true, -Xmx10944m]
+[01:54:39] [main/INFO]: DragonAPI: Registered 154 ASM handlers, of which 151 are enabled.
+[01:54:39] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:54:39] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.TerminalTweaker
+[01:54:39] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.TerminalTweaker
+[01:54:39] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[01:54:39] [main/INFO]: DRAGONAPI: OPTIFINE not detected.
+[01:54:39] [main/INFO]: DRAGONAPI: LITELOADER not detected.
+[01:54:39] [main/INFO]: DRAGONAPI: FASTCRAFT not detected.
+[01:54:39] [main/INFO]: DRAGONAPI: VIVE not detected.
+[01:54:39] [main/INFO]: DRAGONAPI: COLOREDLIGHTS not detected.
+[01:54:39] [main/INFO]: DragonAPI: Running patcher FRAMEBUFFERHOOK [net.minecraft.client.Minecraft/bao]
+[01:54:39] [main/INFO]: DragonAPI: Successfully applied FRAMEBUFFERHOOK [net.minecraft.client.Minecraft/bao] ASM handler!
+[01:54:39] [main/INFO]: DragonAPI: Running patcher MUSICTYPEEVENT [net.minecraft.client.Minecraft/bao]
+[01:54:39] [main/INFO]: DragonAPI: Successfully applied MUSICTYPEEVENT [net.minecraft.client.Minecraft/bao] ASM handler!
+[01:54:40] [main/INFO]: DragonAPI: Running patcher GUIEVENT [net.minecraft.entity.player.EntityPlayer/yz]
+[01:54:40] [main/INFO]: DragonAPI: Successfully applied GUIEVENT [net.minecraft.entity.player.EntityPlayer/yz] ASM handler!
+[01:54:40] [main/INFO]: DragonAPI: Running patcher PLAYERENTITYINVISIBILITYEVENT [net.minecraft.entity.player.EntityPlayer/yz]
+[01:54:40] [main/INFO]: DragonAPI: Successfully applied PLAYERENTITYINVISIBILITYEVENT [net.minecraft.entity.player.EntityPlayer/yz] ASM handler!
+[01:54:40] [main/INFO]: DragonAPI: Running patcher KEEPINVEVENT [net.minecraft.entity.player.EntityPlayer/yz]
+[01:54:40] [main/INFO]: DragonAPI: Successfully applied KEEPINVEVENT [net.minecraft.entity.player.EntityPlayer/yz] ASM handler!
+[01:54:40] [main/INFO]: DragonAPI: Running patcher PLAYERRENDERPASS [net.minecraft.entity.player.EntityPlayer/yz]
+[01:54:40] [main/INFO]: DragonAPI: Successfully applied PLAYERRENDERPASS [net.minecraft.entity.player.EntityPlayer/yz] ASM handler!
+[01:54:40] [main/INFO]: DragonAPI: Running patcher TAMEDMOBBEDS [net.minecraft.entity.player.EntityPlayer/yz]
+[01:54:40] [main/INFO]: DragonAPI: Successfully applied TAMEDMOBBEDS [net.minecraft.entity.player.EntityPlayer/yz] ASM handler!
+[01:54:40] [main/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchEntityPlayer:958]: LOTRCore: Patched method func_71043_e
+[01:54:40] [main/INFO]: ChromatiCraft: Patching class net.minecraft.entity.EntityLivingBase
+[01:54:40] [main/INFO]: ChromatiCraft: Successfully applied STOPSLOWFALL ASM handler!
+[01:54:40] [main/INFO]: DragonAPI: Running patcher ENTITYDECREASEAIREVENT [net.minecraft.entity.EntityLivingBase/sv]
+[01:54:40] [main/INFO]: DragonAPI: Successfully applied ENTITYDECREASEAIREVENT [net.minecraft.entity.EntityLivingBase/sv] ASM handler!
+[01:54:40] [main/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchEntityLivingBase:1030]: LOTRCore: Patched method func_70645_a
+[01:54:40] [main/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchEntityLivingBase:1005]: LOTRCore: Patched method func_70658_aO
+[01:54:40] [main/INFO]: DragonAPI: Running patcher PUSHENTITYOUT [net.minecraft.entity.Entity/sa]
+[01:54:40] [main/INFO]: DragonAPI: Successfully applied PUSHENTITYOUT [net.minecraft.entity.Entity/sa] ASM handler!
+[01:54:40] [main/INFO]: DragonAPI: Running patcher LAVAHANDLINGFIX [net.minecraft.entity.Entity/sa]
+[01:54:40] [main/INFO]: DragonAPI: Successfully applied LAVAHANDLINGFIX [net.minecraft.entity.Entity/sa] ASM handler!
+[01:54:40] [main/INFO]: DragonAPI: Running patcher BASICENTITYINVISIBILITYEVENT [net.minecraft.entity.Entity/sa]
+[01:54:40] [main/INFO]: DragonAPI: Successfully applied BASICENTITYINVISIBILITYEVENT [net.minecraft.entity.Entity/sa] ASM handler!
+[01:54:40] [main/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchEntityClientPlayerMP:1951]: LOTRCore: Patched method func_110318_g
+[01:54:40] [main/INFO]: ChromatiCraft: Patching class net.minecraft.client.entity.EntityPlayerSP
+[01:54:40] [main/INFO]: ChromatiCraft: Successfully applied ENTITYPUSHOUT ASM handler!
+[01:54:40] [main/INFO]: DragonAPI: Running patcher HOTBARKEYEVENT [net.minecraft.client.gui.inventory.GuiContainer/bex]
+[01:54:40] [main/INFO]: DragonAPI: Successfully applied HOTBARKEYEVENT [net.minecraft.client.gui.inventory.GuiContainer/bex] ASM handler!
+[01:54:40] [main/INFO]: DragonAPI: Running patcher ITEMRENDEREVENT [net.minecraft.client.gui.inventory.GuiContainer/bex]
+[01:54:40] [main/INFO]: DragonAPI: Successfully applied ITEMRENDEREVENT [net.minecraft.client.gui.inventory.GuiContainer/bex] ASM handler!
+[01:54:40] [main/INFO]: ChromatiCraft: Patching class net.minecraft.world.World
+[01:54:40] [main/INFO]: ChromatiCraft: Successfully applied COLLISIONBOXES ASM handler!
+[01:54:40] [main/INFO]: DragonAPI: Running patcher TILEUPDATE [net.minecraft.world.World/ahb]
+[01:54:40] [main/INFO]: DragonAPI: Successfully applied TILEUPDATE [net.minecraft.world.World/ahb] ASM handler!
+[01:54:40] [main/INFO]: DragonAPI: Running patcher WEATHERSKYCOLORSTRENGTH [net.minecraft.world.World/ahb]
+[01:54:40] [main/INFO]: DragonAPI: Successfully applied WEATHERSKYCOLORSTRENGTH [net.minecraft.world.World/ahb] ASM handler!
+[01:54:40] [main/INFO]: DragonAPI: Running patcher MOBTARGETEVENT [net.minecraft.world.World/ahb]
+[01:54:40] [main/INFO]: DragonAPI: Successfully applied MOBTARGETEVENT [net.minecraft.world.World/ahb] ASM handler!
+[01:54:40] [main/INFO]: DragonAPI: Running patcher SETBLOCKLIGHT [net.minecraft.world.World/ahb]
+[01:54:40] [main/INFO]: DragonAPI: Applied SETBLOCKLIGHT [net.minecraft.world.World/ahb] ASM handler 1!
+[01:54:40] [main/INFO]: DragonAPI: Applied SETBLOCKLIGHT [net.minecraft.world.World/ahb] ASM handler 2!
+[01:54:40] [main/INFO]: DragonAPI: Successfully applied SETBLOCKLIGHT [net.minecraft.world.World/ahb] ASM handler!
+[01:54:40] [main/INFO]: DragonAPI: Running patcher ICECANCEL [net.minecraft.world.World/ahb]
+[01:54:40] [main/INFO]: DragonAPI: Successfully applied ICECANCEL [net.minecraft.world.World/ahb] ASM handler!
+[01:54:40] [main/INFO]: DragonAPI: Running patcher LIGHTVISUALBRIGHTNESS [net.minecraft.world.World/ahb]
+[01:54:40] [main/INFO]: DragonAPI: Successfully applied LIGHTVISUALBRIGHTNESS [net.minecraft.world.World/ahb] ASM handler!
+[01:54:40] [main/INFO]: DragonAPI: Running patcher STOPCHUNKLOADWORLD [net.minecraft.world.World/ahb]
+[01:54:40] [main/INFO]: DragonAPI: Successfully applied STOPCHUNKLOADWORLD [net.minecraft.world.World/ahb] ASM handler!
+[01:54:40] [main/INFO]: ChromatiCraft: Patching class net.minecraft.client.multiplayer.WorldClient
+[01:54:40] [main/INFO]: DragonAPI: Running patcher BLOCKCHANGEPACKET [net.minecraft.client.multiplayer.WorldClient/bjf]
+[01:54:40] [main/INFO]: DragonAPI: Successfully applied BLOCKCHANGEPACKET [net.minecraft.client.multiplayer.WorldClient/bjf] ASM handler!
+[01:54:40] [main/INFO]: DragonAPI: Running patcher BLOCKTICKEVENT [net.minecraft.world.WorldServer/mt]
+[01:54:40] [main/INFO]: DragonAPI: Successfully applied BLOCKTICKEVENT [net.minecraft.world.WorldServer/mt] ASM handler!
+[01:54:41] [main/INFO]: DragonAPI: Running patcher PROFILER [net.minecraft.profiler.Profiler/qi]
+[01:54:41] [main/INFO]: DragonAPI: Successfully applied PROFILER [net.minecraft.profiler.Profiler/qi] ASM handler!
+[01:54:41] [main/INFO]: Setting user: shadowbane0
+[01:54:41] [main/INFO]: DragonAPI: Running patcher ITEMUPDATE [net.minecraft.entity.item.EntityItem/xk]
+[01:54:41] [main/INFO]: DragonAPI: Successfully applied ITEMUPDATE [net.minecraft.entity.item.EntityItem/xk] ASM handler!
+[01:54:41] [main/INFO]: DragonAPI: Running patcher XPUPDATE [net.minecraft.entity.item.EntityXPOrb/sq]
+[01:54:41] [main/INFO]: DragonAPI: Successfully applied XPUPDATE [net.minecraft.entity.item.EntityXPOrb/sq] ASM handler!
+[01:54:41] [main/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchBlockStone:274]: LOTRCore: Added method func_149673_e
+[01:54:41] [main/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchBlockStone:306]: LOTRCore: Added method func_149691_a
+[01:54:41] [main/INFO]: ChromatiCraft: Patching class net.minecraft.block.BlockGrass
+[01:54:41] [main/INFO]: DragonAPI: Running patcher GRASSSUSTAINCROPEVENT [net.minecraft.block.BlockGrass/alh]
+[01:54:41] [main/INFO]: DragonAPI: Adding AgriCraft module for GRASSSUSTAINCROPEVENT [net.minecraft.block.BlockGrass/alh]
+[01:54:41] [main/INFO]: DragonAPI: Successfully applied GRASSSUSTAINCROPEVENT [net.minecraft.block.BlockGrass/alh] ASM handler!
+[01:54:41] [main/INFO]: DragonAPI: Running patcher GRASSSPREADEVENT [net.minecraft.block.BlockGrass/alh]
+[01:54:41] [main/INFO]: DragonAPI: Successfully applied GRASSSPREADEVENT [net.minecraft.block.BlockGrass/alh] ASM handler!
+[01:54:41] [main/INFO]: DragonAPI: Running patcher GRASSTOPICON [net.minecraft.block.BlockGrass/alh]
+[01:54:41] [main/INFO]: DragonAPI: Successfully applied GRASSTOPICON [net.minecraft.block.BlockGrass/alh] ASM handler!
+[01:54:41] [main/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchBlockGrass:342]: LOTRCore: Patched method func_149674_a
+[01:54:41] [main/INFO]: ChromatiCraft: Patching class net.minecraft.block.BlockDirt
+[01:54:41] [main/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchBlockDirt:397]: LOTRCore: Patched method func_149692_a
+[01:54:41] [main/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchBlockDirt:412]: LOTRCore: Patched method func_149644_j
+[01:54:41] [main/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchBlockDirt:429]: LOTRCore: Patched method func_149666_a
+[01:54:41] [main/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchBlockDirt:446]: LOTRCore: Patched method func_149643_k
+[01:54:41] [main/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchBlockDirt:383]: LOTRCore: Patched method <clinit>
+[01:54:41] [main/INFO]: ChromatiCraft: Patching class net.minecraft.block.BlockLiquid
+[01:54:41] [main/INFO]: DragonAPI: Running patcher LAVAFREEZINGEVENT [net.minecraft.block.BlockLiquid/alw]
+[01:54:41] [main/INFO]: DragonAPI: Successfully applied LAVAFREEZINGEVENT [net.minecraft.block.BlockLiquid/alw] ASM handler!
+[01:54:41] [main/INFO]: DragonAPI: WARNING: ASM handler LAVAFREEZINGEVENT [net.minecraft.block.BlockLiquid/alw] made no changes to the class!
+[01:54:41] [main/INFO]: DragonAPI: Running patcher LIQUIDICON [net.minecraft.block.BlockLiquid/alw]
+[01:54:41] [main/INFO]: DragonAPI: Successfully applied LIQUIDICON [net.minecraft.block.BlockLiquid/alw] ASM handler!
+[01:54:41] [main/INFO]: DragonAPI: Running patcher SUBMERGEABLE [net.minecraft.block.BlockLiquid/alw]
+[01:54:41] [main/INFO]: DragonAPI: Successfully applied SUBMERGEABLE [net.minecraft.block.BlockLiquid/alw] ASM handler!
+[01:54:41] [main/INFO]: DragonAPI: Running patcher WATERCOLOREVENT [net.minecraft.block.BlockLiquid/alw]
+[01:54:41] [main/INFO]: DragonAPI: Successfully applied WATERCOLOREVENT [net.minecraft.block.BlockLiquid/alw] ASM handler!
+[01:54:41] [main/INFO]: DragonAPI: Running patcher LAVAFIREEVENT [net.minecraft.block.BlockStaticLiquid/ant]
+[01:54:41] [main/INFO]: DragonAPI: Successfully applied LAVAFIREEVENT [net.minecraft.block.BlockStaticLiquid/ant] ASM handler!
+[01:54:41] [main/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchBlockStaticLiquid:484]: LOTRCore: Patched method func_149674_a
+[01:54:41] [main/INFO]: DragonAPI: Running patcher VANILLALEAFDECAYEVENT [net.minecraft.block.BlockLeaves/alt]
+[01:54:41] [main/INFO]: DragonAPI: Successfully applied VANILLALEAFDECAYEVENT [net.minecraft.block.BlockLeaves/alt] ASM handler!
+[01:54:41] [main/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchBlockPistonBase:856]: LOTRCore: Patched method func_149696_a 1 times
+[01:54:41] [main/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchBlockPistonBase:856]: LOTRCore: Patched method func_150077_h 1 times
+[01:54:41] [main/INFO]: [lotr.common.coremod.LOTRClassTransformer:patchBlockPistonBase:856]: LOTRCore: Patched method func_150079_i 1 times
+[01:54:41] [main/INFO]: DragonAPI: Running patcher BURNBLOCK [net.minecraft.block.BlockFire/alb]
+[01:54:41] [main/INFO]: DragonAPI: Successfully applied BURNBLOCK [net.minecraft.block.BlockFire/alb] ASM handler!
+[01:54:41] [main/INFO]: DragonAPI: Running patcher FIRESPREADEVENT [net.minecraft.block.BlockFire/alb]
+[01:54:41] [main/INFO]: DragonAPI: Successfully applied FIRESPREADEVENT [net.minecraft.block.BlockFire/alb] ASM handler!
+[01:54:41] [main/INFO]: DragonAPI: Running patcher FIRESPREADCHANCE [net.minecraft.block.BlockFire/alb]
+[01:54:41] [main/INFO]: DragonAPI: Successfully applied FIRESPREADCHANCE [net.minecraft.block.BlockFire/alb] ASM handler!
+[01:54:41] [main/ERROR]: Unable to launch
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/block/BlockFire
+	at net.minecraft.block.Block.func_149671_p(Block.java:257) ~[aji.class:?]
+	at net.minecraft.init.Bootstrap.func_151354_b(SourceFile:355) ~[kl.class:?]
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:287) ~[bao.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:129) ~[Main.class:?]
+	... 6 more
+Caused by: java.lang.ClassNotFoundException: net.minecraft.block.BlockFire
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[?:1.8.0_51]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_51]
+	at net.minecraft.block.Block.func_149671_p(Block.java:257) ~[aji.class:?]
+	at net.minecraft.init.Bootstrap.func_151354_b(SourceFile:355) ~[kl.class:?]
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:287) ~[bao.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:129) ~[Main.class:?]
+	... 6 more
+Caused by: java.lang.NullPointerException
+	at lotr.common.coremod.LOTRClassTransformer.patchBlockFire(LOTRClassTransformer.java:543) ~[LOTRMod%20v36.11.jar:?]
+	at lotr.common.coremod.LOTRClassTransformer.transform(LOTRClassTransformer.java:100) ~[LOTRMod%20v36.11.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) ~[launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[?:1.8.0_51]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_51]
+	at net.minecraft.block.Block.func_149671_p(Block.java:257) ~[aji.class:?]
+	at net.minecraft.init.Bootstrap.func_151354_b(SourceFile:355) ~[kl.class:?]
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:287) ~[bao.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:129) ~[Main.class:?]
+	... 6 more
+[01:54:41] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: cpw.mods.fml.relauncher.FMLSecurityManager$ExitTrappedException
+[01:54:41] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.relauncher.FMLSecurityManager.checkPermission(FMLSecurityManager.java:25)
+[01:54:41] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.SecurityManager.checkExit(SecurityManager.java:761)
+[01:54:41] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.Runtime.exit(Runtime.java:107)
+[01:54:41] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.System.exit(System.java:971)
+[01:54:41] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:138)
+[01:54:41] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
